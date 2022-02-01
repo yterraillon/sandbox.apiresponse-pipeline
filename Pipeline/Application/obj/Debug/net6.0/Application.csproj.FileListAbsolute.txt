@@ -1,0 +1,12 @@
+C:\Projects\sandbox.pipeline\Pipeline\Application\bin\Debug\net6.0\Application.deps.json
+C:\Projects\sandbox.pipeline\Pipeline\Application\bin\Debug\net6.0\Application.dll
+C:\Projects\sandbox.pipeline\Pipeline\Application\bin\Debug\net6.0\ref\Application.dll
+C:\Projects\sandbox.pipeline\Pipeline\Application\bin\Debug\net6.0\Application.pdb
+C:\Projects\sandbox.pipeline\Pipeline\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Projects\sandbox.pipeline\Pipeline\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\sandbox.pipeline\Pipeline\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Projects\sandbox.pipeline\Pipeline\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Projects\sandbox.pipeline\Pipeline\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Projects\sandbox.pipeline\Pipeline\Application\obj\Debug\net6.0\Application.dll
+C:\Projects\sandbox.pipeline\Pipeline\Application\obj\Debug\net6.0\ref\Application.dll
+C:\Projects\sandbox.pipeline\Pipeline\Application\obj\Debug\net6.0\Application.pdb
